@@ -4,7 +4,11 @@ This project is containing the Flutter UI/UX code for E-Wallet Mobile App. The C
 you have basic knowledge of Flutter.
 
 The following Flutter widgets are used in this project:
-1- Container
-2- ListView Builder
-3- MaterialButton
-4-
+- Container
+- ListView Builder
+- MaterialButton
+- Stack
+- Positioned
+- Column
+- Row
+- Image.asset
