@@ -21,4 +21,5 @@ The following Flutter widgets are mainly used in this project:
 
 ### Final Comments
 I'm running a digital agency. Feel free to visit: [IT Innovation](https://itinnovation.pk/)
+
 Contact me on LinkedIn: [WAQAS AHMED](https://linkedin.com/in/waqasahmed26)
